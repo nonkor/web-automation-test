@@ -32,6 +32,7 @@ Good Luck!!!
 2. Install `bundler` gem
 3. Perform `bundle` to install required gems
 4. Download webdriver if needed and place it somewhere on your PATH
+5. Create `report` directory to place your test results
 
 ## Run
 
