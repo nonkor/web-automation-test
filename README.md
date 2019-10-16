@@ -23,3 +23,17 @@ Please build a suite of tests for the sign up form which will run against this s
 Please fork this repository and commit code to it. Send us the link to your repo in an email. 
 
 Good Luck!!!
+
+# Test details
+
+## Install
+
+1. Go to the root directory
+2. Install `bundler` gem
+3. Perform `bundle` to install required gems
+4. Download webdriver if needed and place it somewhere on your PATH
+
+## Run
+
+1. Run tests: `bundle exec cucumber`. You can use BROWSER env to specify desired browser (ie. chrome, firefox etc.)
+2. See test results in console or under `report` directory
